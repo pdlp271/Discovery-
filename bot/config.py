@@ -8,9 +8,9 @@ dirPath = os.path.dirname(realPath)
 dirName = os.path.basename(dirPath)
 
 class TG_CONFIG:
-    api_id = 
+    api_id = "28269435"
 
-    api_hash = ""
+    api_hash = "839f282133fe8ee79b4a946095cf4360"
 
     bot_token = ""
 
@@ -22,9 +22,9 @@ class TG_CONFIG:
 
     session = ""
 
-    bot_creater = ""  # Don't Remove if you Respect the DEV
+    bot_creater = "ӇƤ Ʀƛʆ"  # Don't Remove if you Respect the DEV
 
-    bot_creater_id = ""  # Don't Remove if you Respect the DEV
+    bot_creater_id = "@HP_Raj_Support_bot"  # Don't Remove if you Respect the DEV
 
 class GDRIVE_CONFIG:
     #for Gdrive (Leave it as Empty String if not Gdrive Upload is turned ON)
@@ -79,10 +79,10 @@ class FILENAME_CONFIG:
 
     underscore_before_after_group_tag = "__"
 
-    language_order = ['hi', 'ta', 'te', 'bn', 'gu', 'pa', 'as', 'or',
-                    'ml', 'mr', 'kn', 'th', 'ja', 'th', 'id', 'ms', 'ko', 'bho', 'bh', 'en']
+    language_order = ['kn', 'ta', 'te', 'bn', 'gu', 'pa', 'as', 'or',
+                    'ml', 'mr', 'hi', 'th', 'ja', 'th', 'id', 'ms', 'ko', 'bho', 'bh', 'en']
 
-    default_group_tag = "Kushi_Yarige_bedda" # Don't change it if you Respect the DEV
+    default_group_tag = "HP_Raj_MOVIES" # Don't change it if you Respect the DEV
 
 
 class PROXY_CONFIG:
