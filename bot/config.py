@@ -8,27 +8,27 @@ dirPath = os.path.dirname(realPath)
 dirName = os.path.basename(dirPath)
 
 class TG_CONFIG:
-    api_id = 17108931
+    api_id = 
 
-    api_hash = "436b24700208cae55ded351d8f25fd7a"
+    api_hash = ""
 
-    bot_token = "7710756085:AAFSvDtol8ECUNtn1QsqIRqN37IQQbop1Cg"
+    bot_token = ""
 
     #DEVS or #OWNERS
-    sudo_users = [1984763765, 5300197778, -1002732800537,]
+    sudo_users = [add]
 
     # Has access to gdrive config and gdrive session
-    dev_users = [1984763765, 5300197778]
+    dev_users = [add]
 
-    session = "Kushi_Yarige_bedda"
+    session = ""
 
-    bot_creater = "Kushi_Yarige_bedda"  # Don't Remove if you Respect the DEV
+    bot_creater = ""  # Don't Remove if you Respect the DEV
 
-    bot_creater_id = "Kushi_Yarige_bedda"  # Don't Remove if you Respect the DEV
+    bot_creater_id = ""  # Don't Remove if you Respect the DEV
 
 class GDRIVE_CONFIG:
     #for Gdrive (Leave it as Empty String if not Gdrive Upload is turned ON)
-    root_folder_id = "12JYZZlAlt5g-PKcI8j6NDLmtaOJaTYfU"
+    root_folder_id = ""
 
     #don't touch or add yours
     indexlink_format = "https://example.google.workers.dev/0:/{}/{}"
